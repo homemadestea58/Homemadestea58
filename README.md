@@ -18,7 +18,7 @@
 
 > 🏆 199 Contributions in the Year 2021
  > 
-> 📦 3.1 MB Used in Github's Storage 
+> 📦 3.2 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 23 mins        ███████████████░░░░░░░░░░   62.47% 
-JavaScript               43 mins             ████████░░░░░░░░░░░░░░░░░   32.71% 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
+Other                    3 hrs 12 mins       █████████████████████░░░░   83.58% 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
 
 🔥 Editors: 
-Browser                  1 hr 9 mins         █████████████░░░░░░░░░░░░   51.84% 
-VS Code                  1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.16%
+Browser                  2 hrs 58 mins       ███████████████████░░░░░░   77.42% 
+VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             2 hrs 13 mins       █████████████████████████   100.0%
+HHFCPhotoApp             3 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████░░░░░░░░░░░░   51.84% 
-Linux                    1 hr 4 mins         ████████████░░░░░░░░░░░░░   48.16%
+Windows                  2 hrs 58 mins       ███████████████████░░░░░░   77.42% 
+Linux                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58%
 
 ```
 
@@ -84,7 +84,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
   
