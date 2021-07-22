@@ -10,13 +10,13 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 199 Contributions in the Year 2021
+> 🏆 202 Contributions in the Year 2021
  > 
 > 📦 3.2 MB Used in Github's Storage 
  > 
@@ -53,21 +53,21 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 12 mins       █████████████████████░░░░   83.58% 
-JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+Other                    3 hrs 59 mins       ███████████████████████░░   95.17% 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-Browser                  2 hrs 58 mins       ███████████████████░░░░░░   77.42% 
-VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58%
+Browser                  3 hrs 45 mins       ██████████████████████░░░   89.54% 
+VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             3 hrs 50 mins       █████████████████████████   100.0%
+HHFCPhotoApp             4 hrs 11 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       ███████████████████░░░░░░   77.42% 
-Linux                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58%
+Windows                  3 hrs 45 mins       ██████████████████████░░░   89.54% 
+Linux                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
 
 ```
 
@@ -84,7 +84,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2021
+ Last Updated on 22/07/2021
 <!--END_SECTION:waka-->
 
   
