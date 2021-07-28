@@ -53,21 +53,20 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs               ███████████████████████░░   92.45% 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Other                    9 hrs 12 mins       ███████████████████████░░   93.48% 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
+JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-Browser                  9 hrs               ███████████████████████░░   92.45% 
-VS Code                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55%
+Browser                  9 hrs 12 mins       ███████████████████████░░   93.48% 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             9 hrs 45 mins       █████████████████████████   100.0%
+HHFCPhotoApp             9 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs               ███████████████████████░░   92.45% 
-Linux                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.55%
+Windows                  9 hrs 12 mins       ███████████████████████░░   93.48% 
+Linux                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
 
 ```
 
@@ -84,7 +83,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2021
+ Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
 
   
