@@ -10,7 +10,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -18,7 +18,7 @@
 
 > 🏆 203 Contributions in the Year 2021
  > 
-> 📦 3.7 MB Used in Github's Storage 
+> 📦 3.8 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,7 +62,7 @@ Browser                  10 hrs 58 mins      ███████████�
 VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             11 hrs 37 mins      █████████████████████████   100.0%
+HHFCPhotoApp             11 hrs 36 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  10 hrs 58 mins      ███████████████████████░░   94.47% 
@@ -83,7 +83,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2021
+ Last Updated on 30/07/2021
 <!--END_SECTION:waka-->
 
   
