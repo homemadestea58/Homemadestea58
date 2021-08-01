@@ -18,7 +18,7 @@
 
 > 🏆 203 Contributions in the Year 2021
  > 
-> 📦 3.8 MB Used in Github's Storage 
+> 📦 3.9 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,20 +53,16 @@ Sunday       30 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 13 mins      ████████████████████████░   96.14% 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Other                    9 hrs 50 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  12 hrs 13 mins      ████████████████████████░   96.14% 
-VS Code                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+Browser                  9 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             12 hrs 42 mins      █████████████████████████   100.0%
+HHFCPhotoApp             9 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 hrs 13 mins      ████████████████████████░   96.14% 
-Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+Windows                  9 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +79,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
 
   
