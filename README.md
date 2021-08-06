@@ -18,7 +18,7 @@
 
 > 🏆 204 Contributions in the Year 2021
  > 
-> 📦 4.1 MB Used in Github's Storage 
+> 📦 4.2 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,7 +83,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
   
