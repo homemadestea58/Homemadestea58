@@ -10,7 +10,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -18,7 +18,7 @@
 
 > 🏆 221 Contributions in the Year 2021
  > 
-> 📦 4.4 MB Used in Github's Storage 
+> 📦 4.5 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,22 +53,22 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 24 mins      ███████████████████░░░░░░   79.09% 
-JavaScript               2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+Other                    10 hrs 21 mins      █████████████████████░░░░   83.59% 
+JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
 JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-Browser                  10 hrs 21 mins      ███████████████████░░░░░░   78.7% 
-VS Code                  2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.3%
+Browser                  10 hrs 21 mins      █████████████████████░░░░   83.58% 
+VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             13 hrs 9 mins       █████████████████████████   100.0%
+HHFCPhotoApp             12 hrs 23 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      ███████████████████░░░░░░   78.7% 
-Linux                    2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.3%
+Windows                  10 hrs 21 mins      █████████████████████░░░░   83.58% 
+Linux                    2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42%
 
 ```
 
