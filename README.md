@@ -16,7 +16,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 221 Contributions in the Year 2021
+> 🏆 222 Contributions in the Year 2021
  > 
 > 📦 4.5 MB Used in Github's Storage 
  > 
@@ -53,22 +53,22 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 21 mins      █████████████████████░░░░   83.59% 
-JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
-JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Other                    12 hrs 37 mins      █████████████████████░░░░   84.05% 
+JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-Browser                  10 hrs 21 mins      █████████████████████░░░░   83.58% 
-VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+Browser                  12 hrs 37 mins      █████████████████████░░░░   84.04% 
+VS Code                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             12 hrs 23 mins      █████████████████████████   100.0%
+HHFCPhotoApp             15 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████░░░░   83.58% 
-Linux                    2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+Windows                  12 hrs 37 mins      █████████████████████░░░░   84.04% 
+Linux                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96%
 
 ```
 
@@ -85,7 +85,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
   
