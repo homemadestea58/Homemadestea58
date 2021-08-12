@@ -16,9 +16,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 222 Contributions in the Year 2021
+> 🏆 230 Contributions in the Year 2021
  > 
-> 📦 4.5 MB Used in Github's Storage 
+> 📦 4.6 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,22 +29,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    89 commits     ███████░░░░░░░░░░░░░░░░░░   29.18% 
-🌆 Daytime    131 commits    ██████████░░░░░░░░░░░░░░░   42.95% 
-🌃 Evening    85 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
+🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.77% 
+🌆 Daytime    131 commits    ██████████░░░░░░░░░░░░░░░   41.99% 
+🌃 Evening    85 commits     ██████░░░░░░░░░░░░░░░░░░░   27.24% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
-Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Wednesday    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.82% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
+Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Wednesday    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.13% 
+Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
 
 ```
 
@@ -53,22 +53,22 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 37 mins      █████████████████████░░░░   84.05% 
-JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+Other                    13 hrs 29 mins      ██████████████████████░░░   89.24% 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
 Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-Browser                  12 hrs 37 mins      █████████████████████░░░░   84.04% 
-VS Code                  2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96%
+Browser                  13 hrs 29 mins      ██████████████████████░░░   89.23% 
+VS Code                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             15 hrs 1 min        █████████████████████████   100.0%
+HHFCPhotoApp             15 hrs 6 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 hrs 37 mins      █████████████████████░░░░   84.04% 
-Linux                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96%
+Windows                  13 hrs 29 mins      ██████████████████████░░░   89.23% 
+Linux                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
 
 ```
 
@@ -85,7 +85,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
   
