@@ -10,13 +10,13 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 230 Contributions in the Year 2021
+> 🏆 232 Contributions in the Year 2021
  > 
 > 📦 4.6 MB Used in Github's Storage 
  > 
@@ -29,22 +29,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.77% 
-🌆 Daytime    131 commits    ██████████░░░░░░░░░░░░░░░   41.99% 
-🌃 Evening    85 commits     ██████░░░░░░░░░░░░░░░░░░░   27.24% 
+🌞 Morning    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.57% 
+🌆 Daytime    131 commits    ██████████░░░░░░░░░░░░░░░   41.72% 
+🌃 Evening    87 commits     ███████░░░░░░░░░░░░░░░░░░   27.71% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Wednesday    94 commits     ███████░░░░░░░░░░░░░░░░░░   30.13% 
-Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Wednesday    94 commits     ███████░░░░░░░░░░░░░░░░░░   29.94% 
+Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
+Sunday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74%
 
 ```
 
@@ -53,22 +53,23 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 29 mins      ██████████████████████░░░   89.24% 
-JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Other                    15 hrs 22 mins      █████████████████████░░░░   86.25% 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+C#                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-Browser                  13 hrs 29 mins      ██████████████████████░░░   89.23% 
-VS Code                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
+Browser                  15 hrs 22 mins      █████████████████████░░░░   86.25% 
+VS Code                  2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             15 hrs 6 mins       █████████████████████████   100.0%
+HHFCPhotoApp             17 hrs              ███████████████████████░░   95.37% 
+Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
 
 💻 Operating System: 
-Windows                  13 hrs 29 mins      ██████████████████████░░░   89.23% 
-Linux                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
+Windows                  16 hrs 12 mins      ██████████████████████░░░   90.88% 
+Linux                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
 
 ```
 
@@ -85,7 +86,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
   
