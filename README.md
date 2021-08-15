@@ -18,7 +18,7 @@
 
 > 🏆 232 Contributions in the Year 2021
  > 
-> 📦 4.7 MB Used in Github's Storage 
+> 📦 4.8 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,23 +53,23 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 26 mins      █████████████████████░░░░   87.08% 
-JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-C#                       1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+Other                    9 hrs 24 mins       █████████████████████░░░░   84.24% 
+C#                       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-Browser                  15 hrs 26 mins      █████████████████████░░░░   87.08% 
-VS Code                  2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+Browser                  9 hrs 24 mins       █████████████████████░░░░   84.24% 
+VS Code                  1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             16 hrs 41 mins      ███████████████████████░░   94.11% 
-Unknown Project          1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
+HHFCPhotoApp             10 hrs 6 mins       ██████████████████████░░░   90.64% 
+Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
 
 💻 Operating System: 
-Windows                  16 hrs 29 mins      ███████████████████████░░   92.97% 
-Linux                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
+Windows                  10 hrs 26 mins      ███████████████████████░░   93.6% 
+Linux                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
 
 ```
 
@@ -86,7 +86,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
   
