@@ -10,7 +10,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -18,13 +18,13 @@
 
 > 🏆 232 Contributions in the Year 2021
  > 
-> 📦 5.0 MB Used in Github's Storage 
+> 📦 5.1 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 40 Private Repositories  
+> 🔑 41 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -53,36 +53,36 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 45 mins       ██████████████████████░░░   88.13% 
-C#                       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
+Other                    8 hrs 43 mins       ████████████████████████░   97.55% 
+C#                       13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 🔥 Editors: 
-Browser                  7 hrs 45 mins       ██████████████████████░░░   88.13% 
-VS Code                  1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
+Browser                  8 hrs 43 mins       ████████████████████████░   97.55% 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             7 hrs 45 mins       ██████████████████████░░░   88.13% 
-Unknown Project          1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
+HHFCPhotoApp             8 hrs 43 mins       ████████████████████████░   97.55% 
+Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.0%
+Windows                  8 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44% 
+JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44% 
+PHP                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
 
 ```
 
 
 
- Last Updated on 19/08/2021
+ Last Updated on 20/08/2021
 <!--END_SECTION:waka-->
 
   
