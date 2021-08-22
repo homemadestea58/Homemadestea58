@@ -10,7 +10,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -53,16 +53,16 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 44 mins       █████████████████████████   100.0%
+Other                    10 hrs 6 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  6 hrs 44 mins       █████████████████████████   100.0%
+Browser                  10 hrs 6 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             6 hrs 44 mins       █████████████████████████   100.0%
+HHFCPhotoApp             10 hrs 6 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       █████████████████████████   100.0%
+Windows                  10 hrs 6 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2021
+ Last Updated on 22/08/2021
 <!--END_SECTION:waka-->
 
   
