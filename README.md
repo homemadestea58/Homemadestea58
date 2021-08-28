@@ -53,16 +53,16 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 58 mins       █████████████████████████   100.0%
+Other                    3 hrs 22 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  4 hrs 58 mins       █████████████████████████   100.0%
+Browser                  3 hrs 22 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             4 hrs 58 mins       █████████████████████████   100.0%
+HHFCPhotoApp             3 hrs 22 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.0%
+Windows                  3 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 
   
