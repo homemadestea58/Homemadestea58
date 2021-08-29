@@ -18,7 +18,7 @@
 
 > 🏆 232 Contributions in the Year 2021
  > 
-> 📦 5.6 MB Used in Github's Storage 
+> 📦 5.7 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,16 +53,16 @@ Sunday       40 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 22 mins       █████████████████████████   100.0%
+Other                    0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  3 hrs 22 mins       █████████████████████████   100.0%
+Browser                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             3 hrs 22 mins       █████████████████████████   100.0%
+HHFCPhotoApp             0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.0%
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 
   
