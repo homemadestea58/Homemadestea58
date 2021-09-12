@@ -53,20 +53,16 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 40 mins        ██████████████░░░░░░░░░░░   55.79% 
-JSX                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 59 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,7 +79,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
 
   
