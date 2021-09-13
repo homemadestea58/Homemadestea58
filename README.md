@@ -6,7 +6,7 @@
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/currently-learning.svg?raw=true" alt="I'm currently learning React and React Native" title="I'm currently learning React and React Native" width="85%">](https://github.com/homemadestea58)
 
 <div align="center" valign="center">
-
+  <summary>More info: </summary>
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
@@ -84,4 +84,4 @@ Python                   4 repos             ██░░░░░░░░░�
 
   
 </div>
-
+</summary>
