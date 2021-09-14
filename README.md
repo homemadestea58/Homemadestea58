@@ -30,6 +30,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/currently-learning.svg?raw=true" alt="I'm currently learning React and React Native" title="I'm currently learning React and React Native" width="85%">](https://github.com/homemadestea58)
 
 <details>
