@@ -100,7 +100,7 @@
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/achievments.svg?raw=true" alt="GitHub Achievments" title="My Achievments on GitHub" width="85%">](https://github.com/homemadestea58)
 
 
-![Metrics](https://metrics.lecoq.io/homemadestea58?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Australia%2FSydney)
+![Achievments](https://metrics.lecoq.io/homemadestea58?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Australia%2FSydney)
 
 <hr />
 
