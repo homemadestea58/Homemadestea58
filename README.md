@@ -105,6 +105,40 @@
 
 <hr />
 
+<!-- CI -->
+
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<hr />
+
+<!-- Testing -->
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+<hr />
+
+<!-- Play Games -->
+
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+<hr />
+
+<!-- Make Games -->
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+<hr />
+
+<!-- OS -->
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+<hr />
+
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/currently-learning.svg?raw=true" alt="I'm currently learning React and React Native" title="I'm currently learning React and React Native" width="85%">](https://github.com/homemadestea58)
 
 <details>
