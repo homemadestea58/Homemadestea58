@@ -9,7 +9,7 @@
 <!-- Recent -->
 
 
-[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/recents.svg?raw=true" alt="What have I been up to recently?" width="48%">](https://github.com/homemadestea58)
+[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/recents.svg?raw=true" alt="What have I been up to recently?" width="85%">](https://github.com/homemadestea58)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
