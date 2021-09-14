@@ -1,6 +1,9 @@
 
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/hi-there.svg?raw=true" alt="Hi There" width="48%">](https://github.com/homemadestea58)
+
+![Metrics](https://metrics.lecoq.io/homemadestea58?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Australia%2FSydney)
+
 <hr />
 <!--Languages -->
 
