@@ -1,7 +1,7 @@
 
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/hi-there.svg?raw=true" alt="Hi There" width="48%">](https://github.com/homemadestea58)
-
+<hr />
 <!--Languages -->
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/different-langs.svg?raw=true" alt="I'm learning different languages" title="I'm learning different languages" width="85%">](https://github.com/homemadestea58)
@@ -14,6 +14,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<hr />
 
 <!-- Frameworks -->
 
@@ -30,6 +32,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+<hr />
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/currently-learning.svg?raw=true" alt="I'm currently learning React and React Native" title="I'm currently learning React and React Native" width="85%">](https://github.com/homemadestea58)
 
