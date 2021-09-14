@@ -17,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <hr />
 <!--Languages -->
@@ -31,7 +32,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 <hr />
 
@@ -85,7 +86,7 @@
 <!-- Learning -->
 
 
-[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/learn-code.svg?raw=true" alt="Where do I learn to code?" title="Where do I lesrn to code?" width="85%">](https://github.com/homemadestea58)
+[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/learn-code.svg?raw=true" alt="Where do I learn to code?" title="Where do I learn to code?" width="85%">](https://github.com/homemadestea58)
 
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
