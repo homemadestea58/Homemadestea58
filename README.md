@@ -2,8 +2,11 @@
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/hi-there.svg?raw=true" alt="Hi There" width="48%">](https://github.com/homemadestea58)
 
-[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/different-langs.svg?raw=true" alt="I'm learning different languages" title="I'm learning different languages" width="85%">](https://github.com/homemadestea58)
 <!--Languages -->
+
+[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/different-langs.svg?raw=true" alt="I'm learning different languages" title="I'm learning different languages" width="85%">](https://github.com/homemadestea58)
+
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,6 +16,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- Frameworks -->
+
+[<img src="https://github.com/homemadestea58/homemadestea58/blob/master/different-frameworks.svg?raw=true" alt="I use these different frameworks" title="I use these different franeworks" width="85%">](https://github.com/homemadestea58)
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
