@@ -4,8 +4,6 @@
 
 `npx homemadestea58`
 
-![](https://komarev.com/ghpvc/?username=homemadestea58&style=flat-square)
-
 
 <hr />
 
