@@ -130,15 +130,15 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-249-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-264-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 305 Contributions in the Year 2021
+> 🏆 310 Contributions in the Year 2021
  > 
-> 📦 6.8 MB Used in Github's Storage 
+> 📦 6.9 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,22 +149,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    144 commits    ██████████░░░░░░░░░░░░░░░   40.79% 
-🌆 Daytime    122 commits    ████████░░░░░░░░░░░░░░░░░   34.56% 
-🌃 Evening    87 commits     ██████░░░░░░░░░░░░░░░░░░░   24.65% 
+🌞 Morning    143 commits    ██████████░░░░░░░░░░░░░░░   40.06% 
+🌆 Daytime    122 commits    ████████░░░░░░░░░░░░░░░░░   34.17% 
+🌃 Evening    92 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Tuesday      83 commits     ██████░░░░░░░░░░░░░░░░░░░   23.51% 
-Wednesday    90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.5% 
-Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Friday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
+Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+Wednesday    95 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Friday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2021
+ Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
 
   
