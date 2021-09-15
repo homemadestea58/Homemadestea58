@@ -1,6 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=44537298)
-
-
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/hi-there.svg?raw=true" alt="Hi There" width="48%">](https://github.com/homemadestea58)
 
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/npx-card.svg?raw=true" alt="Hi There" width="85%">](https://github.com/homemadestea58)
@@ -211,3 +208,4 @@ Python                   4 repos             ██░░░░░░░░░�
   
 </div>
 </details>
+![](https://hit.yhype.me/github/profile?user_id=44537298)
