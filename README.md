@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -139,7 +139,7 @@
 
 > 🏆 310 Contributions in the Year 2021
  > 
-> 📦 7.9 MB Used in GitHub's Storage 
+> 📦 8.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -174,16 +174,16 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2021
+ Last Updated on 03/10/2021
 <!--END_SECTION:waka-->
 
   
