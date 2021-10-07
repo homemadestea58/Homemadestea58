@@ -131,15 +131,15 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 310 Contributions in the Year 2021
+> 🏆 313 Contributions in the Year 2021
  > 
-> 📦 8.1 MB Used in GitHub's Storage 
+> 📦 8.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,8 +151,8 @@
 
 ```text
 🌞 Morning    142 commits    ██████████░░░░░░░░░░░░░░░   39.78% 
-🌆 Daytime    122 commits    ████████░░░░░░░░░░░░░░░░░   34.17% 
-🌃 Evening    93 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05% 
+🌆 Daytime    121 commits    ████████░░░░░░░░░░░░░░░░░   33.89% 
+🌃 Evening    94 commits     ██████░░░░░░░░░░░░░░░░░░░   26.33% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -161,8 +161,8 @@
 ```text
 Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
 Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Wednesday    95 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
-Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Wednesday    92 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
 Friday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
 Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
 Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92%
@@ -174,16 +174,17 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0%
+C#                       6 mins              ███████████████████████░░   93.73% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.0%
+Unknown Project          7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -200,7 +201,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 07/10/2021
 <!--END_SECTION:waka-->
 
   
