@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -139,7 +139,7 @@
 
 > 🏆 332 Contributions in the Year 2021
  > 
-> 📦 8.5 MB Used in GitHub's Storage 
+> 📦 8.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    145 commits    █████████░░░░░░░░░░░░░░░░   38.77% 
-🌆 Daytime    127 commits    ████████░░░░░░░░░░░░░░░░░   33.96% 
-🌃 Evening    102 commits    ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌞 Morning    145 commits    █████████░░░░░░░░░░░░░░░░   39.08% 
+🌆 Daytime    124 commits    ████████░░░░░░░░░░░░░░░░░   33.42% 
+🌃 Evening    102 commits    ██████░░░░░░░░░░░░░░░░░░░   27.49% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   21.93% 
-Wednesday    92 commits     ██████░░░░░░░░░░░░░░░░░░░   24.6% 
-Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-Sunday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.5%
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.1% 
+Wednesday    92 commits     ██████░░░░░░░░░░░░░░░░░░░   24.8% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
+Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
+Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
 
   
