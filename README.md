@@ -137,9 +137,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 336 Contributions in the Year 2021
+> 🏆 338 Contributions in the Year 2021
  > 
-> 📦 8.8 MB Used in GitHub's Storage 
+> 📦 8.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    139 commits    █████████░░░░░░░░░░░░░░░░   38.94% 
-🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   31.65% 
-🌃 Evening    105 commits    ███████░░░░░░░░░░░░░░░░░░   29.41% 
+🌞 Morning    139 commits    █████████░░░░░░░░░░░░░░░░   38.83% 
+🌆 Daytime    114 commits    ████████░░░░░░░░░░░░░░░░░   31.84% 
+🌃 Evening    105 commits    ███████░░░░░░░░░░░░░░░░░░   29.33% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Wednesday    83 commits     █████░░░░░░░░░░░░░░░░░░░░   23.25% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48%
+Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Tuesday      82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.91% 
+Wednesday    83 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
 
 ```
 
@@ -174,37 +174,37 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 23 mins       ████████████████████░░░░░   83.39% 
-TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
+JavaScript               1 hr 13 mins        ██████████████████░░░░░░░   73.39% 
+TOML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  1 hr 40 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             5 hrs 15 mins       █████████████████████████   100.0%
+HHFCPhotoApp             1 hr 40 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       █████████████████████████   100.0%
+Linux                    1 hr 40 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-HTML                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
+JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66% 
+HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   23.4% 
+PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 ```
 
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
 
   
