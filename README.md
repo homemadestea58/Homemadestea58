@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -174,19 +174,16 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               27 mins             ████████████████████████░   98.49% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+JavaScript               8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             28 mins             █████████████████████████   100.0%
+HHFCPhotoApp             8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.0%
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -203,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 
   
