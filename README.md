@@ -137,9 +137,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 346 Contributions in the Year 2021
+> 🏆 348 Contributions in the Year 2021
  > 
-> 📦 9.1 MB Used in GitHub's Storage 
+> 📦 9.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    140 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
-🌆 Daytime    118 commits    ████████░░░░░░░░░░░░░░░░░   32.33% 
-🌃 Evening    107 commits    ███████░░░░░░░░░░░░░░░░░░   29.32% 
+🌞 Morning    140 commits    █████████░░░░░░░░░░░░░░░░   38.15% 
+🌆 Daytime    118 commits    ████████░░░░░░░░░░░░░░░░░   32.15% 
+🌃 Evening    109 commits    ███████░░░░░░░░░░░░░░░░░░   29.7% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Tuesday      83 commits     █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-Wednesday    83 commits     █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
-Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
-Sunday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+Tuesday      83 commits     █████░░░░░░░░░░░░░░░░░░░░   22.62% 
+Wednesday    83 commits     █████░░░░░░░░░░░░░░░░░░░░   22.62% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+Saturday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Sunday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
 
 ```
 
@@ -174,16 +174,16 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -200,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2021
+ Last Updated on 21/10/2021
 <!--END_SECTION:waka-->
 
   
