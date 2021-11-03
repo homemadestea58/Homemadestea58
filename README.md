@@ -131,15 +131,15 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 366 Contributions in the Year 2021
+> 🏆 374 Contributions in the Year 2021
  > 
-> 📦 9.9 MB Used in GitHub's Storage 
+> 📦 10.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    125 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
-🌆 Daytime    124 commits    ████████░░░░░░░░░░░░░░░░░   34.16% 
-🌃 Evening    114 commits    ███████░░░░░░░░░░░░░░░░░░   31.4% 
+🌞 Morning    132 commits    █████████░░░░░░░░░░░░░░░░   36.87% 
+🌆 Daytime    117 commits    ████████░░░░░░░░░░░░░░░░░   32.68% 
+🌃 Evening    109 commits    ███████░░░░░░░░░░░░░░░░░░   30.45% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Tuesday      77 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Wednesday    76 commits     █████░░░░░░░░░░░░░░░░░░░░   20.94% 
-Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
-Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22%
+Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+Tuesday      85 commits     ██████░░░░░░░░░░░░░░░░░░░   23.74% 
+Wednesday    76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
 
 ```
 
@@ -174,16 +174,16 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.0%
+JavaScript               19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-HHFCPhotoApp             2 mins              █████████████████████████   100.0%
+HHFCPhotoApp             19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+Linux                    19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
   
