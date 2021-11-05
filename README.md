@@ -139,7 +139,7 @@
 
 > 🏆 374 Contributions in the Year 2021
  > 
-> 📦 10.1 MB Used in GitHub's Storage 
+> 📦 10.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -190,17 +190,17 @@ Linux                    17 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17% 
-HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.92% 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
-CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+JavaScript               16 repos            ████████░░░░░░░░░░░░░░░░░   32.0% 
+HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
 ```
 
 
 
- Last Updated on 04/11/2021
+ Last Updated on 05/11/2021
 <!--END_SECTION:waka-->
 
   
