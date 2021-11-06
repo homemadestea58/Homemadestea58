@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    132 commits    █████████░░░░░░░░░░░░░░░░   36.87% 
-🌆 Daytime    117 commits    ████████░░░░░░░░░░░░░░░░░   32.68% 
-🌃 Evening    109 commits    ███████░░░░░░░░░░░░░░░░░░   30.45% 
+🌞 Morning    129 commits    █████████░░░░░░░░░░░░░░░░   36.44% 
+🌆 Daytime    116 commits    ████████░░░░░░░░░░░░░░░░░   32.77% 
+🌃 Evening    109 commits    ███████░░░░░░░░░░░░░░░░░░   30.79% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Tuesday      85 commits     ██████░░░░░░░░░░░░░░░░░░░   23.74% 
-Wednesday    76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
-Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
+Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Tuesday      85 commits     ██████░░░░░░░░░░░░░░░░░░░   24.01% 
+Wednesday    76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+Thursday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Friday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
   
