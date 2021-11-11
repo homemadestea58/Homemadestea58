@@ -131,13 +131,13 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 381 Contributions in the Year 2021
+> 🏆 395 Contributions in the Year 2021
  > 
 > 📦 10.5 MB Used in GitHub's Storage 
  > 
@@ -150,9 +150,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    131 commits    █████████░░░░░░░░░░░░░░░░   36.8% 
-🌆 Daytime    115 commits    ████████░░░░░░░░░░░░░░░░░   32.3% 
-🌃 Evening    110 commits    ███████░░░░░░░░░░░░░░░░░░   30.9% 
+🌞 Morning    139 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
+🌆 Daytime    109 commits    ███████░░░░░░░░░░░░░░░░░░   30.62% 
+🌃 Evening    108 commits    ███████░░░░░░░░░░░░░░░░░░   30.34% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -161,11 +161,11 @@
 ```text
 Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
 Tuesday      85 commits     ██████░░░░░░░░░░░░░░░░░░░   23.88% 
-Wednesday    77 commits     █████░░░░░░░░░░░░░░░░░░░░   21.63% 
-Thursday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   19.94% 
+Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
 Friday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
 Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76%
+Sunday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
   
