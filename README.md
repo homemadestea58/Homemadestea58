@@ -139,7 +139,7 @@
 
 > 🏆 407 Contributions in the Year 2021
  > 
-> 📦 10.8 MB Used in GitHub's Storage 
+> 📦 10.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -200,7 +200,7 @@ Python                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
 
   
