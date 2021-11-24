@@ -131,15 +131,15 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 449 Contributions in the Year 2021
  > 
-> 📦 11.2 MB Used in GitHub's Storage 
+> 📦 11.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,22 +150,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    149 commits    ██████████░░░░░░░░░░░░░░░   40.6% 
-🌆 Daytime    105 commits    ███████░░░░░░░░░░░░░░░░░░   28.61% 
-🌃 Evening    113 commits    ███████░░░░░░░░░░░░░░░░░░   30.79% 
+🌞 Morning    153 commits    ██████████░░░░░░░░░░░░░░░   40.16% 
+🌆 Daytime    107 commits    ███████░░░░░░░░░░░░░░░░░░   28.08% 
+🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   23.16% 
-Wednesday    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
-Thursday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
-Friday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
-Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
-Sunday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
+Monday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
+Tuesday      88 commits     █████░░░░░░░░░░░░░░░░░░░░   23.1% 
+Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+Thursday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
 
 ```
 
@@ -200,7 +200,7 @@ Python                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
 
   
