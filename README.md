@@ -131,41 +131,43 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 450 Contributions in the Year 2021
+> 🏆 189 Contributions in the Year 2022
  > 
-> 📦 11.8 MB Used in GitHub's Storage 
+> 📦 23.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 43 Public Repositories 
  > 
-> 🔑 47 Private Repositories  
+> 🔑 53 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    149 commits    ██████████░░░░░░░░░░░░░░░   40.05% 
-🌆 Daytime    103 commits    ███████░░░░░░░░░░░░░░░░░░   27.69% 
-🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   32.26% 
+🌞 Morning    109 commits    ███████░░░░░░░░░░░░░░░░░░   28.17% 
+🌆 Daytime    130 commits    ████████░░░░░░░░░░░░░░░░░   33.59% 
+🌃 Evening    148 commits    █████████░░░░░░░░░░░░░░░░   38.24% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Tuesday      84 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Wednesday    67 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Thursday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
-Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48%
+Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Tuesday      119 commits    ███████░░░░░░░░░░░░░░░░░░   30.75% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Thursday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
+Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37%
 
 ```
 
@@ -174,33 +176,37 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 15 mins        ██████████████████░░░░░░░   72.19% 
+HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 45 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SkillsGrader             1 hr 45 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 45 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.93% 
-HTML                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.64% 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93%
+JavaScript               24 repos            █████████░░░░░░░░░░░░░░░░   38.1% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
 ```
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 12/06/2022 18:47:52 UTC
 <!--END_SECTION:waka-->
 
   
