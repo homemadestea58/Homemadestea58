@@ -141,7 +141,7 @@
 
 > 🏆 189 Contributions in the Year 2022
  > 
-> 📦 23.4 MB Used in GitHub's Storage 
+> 📦 23.5 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,16 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 15 mins        ██████████████████░░░░░░░   72.19% 
-HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SkillsGrader             1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -206,7 +202,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 18:47:52 UTC
+ Last Updated on 14/06/2022 18:50:19 UTC
 <!--END_SECTION:waka-->
 
   
