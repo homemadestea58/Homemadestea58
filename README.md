@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 192 Contributions in the Year 2022
  > 
-> 📦 23.6 MB Used in GitHub's Storage 
+> 📦 23.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,17 +192,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               24 repos            █████████░░░░░░░░░░░░░░░░   38.1% 
-HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+JavaScript               24 repos            █████████░░░░░░░░░░░░░░░░   37.5% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
 
 
- Last Updated on 15/06/2022 18:50:26 UTC
+ Last Updated on 16/06/2022 18:52:54 UTC
 <!--END_SECTION:waka-->
 
   
