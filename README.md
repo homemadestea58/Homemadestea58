@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 192 Contributions in the Year 2022
+> 🏆 196 Contributions in the Year 2022
  > 
 > 📦 25.1 MB Used in GitHub's Storage 
  > 
@@ -147,27 +147,27 @@
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 53 Private Repositories  
+> 🔑 54 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ███████░░░░░░░░░░░░░░░░░░   28.17% 
-🌆 Daytime    128 commits    ████████░░░░░░░░░░░░░░░░░   33.07% 
-🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.76% 
+🌞 Morning    109 commits    ███████░░░░░░░░░░░░░░░░░░   27.95% 
+🌆 Daytime    131 commits    ████████░░░░░░░░░░░░░░░░░   33.59% 
+🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.46% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      119 commits    ███████░░░░░░░░░░░░░░░░░░   30.75% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Thursday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37%
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
+Tuesday      119 commits    ███████░░░░░░░░░░░░░░░░░░   30.51% 
+Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+Thursday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28%
 
 ```
 
@@ -176,33 +176,40 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 54 mins        ██████████████████████░░░   87.96% 
+SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0% 
+Google Calendar          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2022-reactcourse-ecommerc2 hrs 9 mins        █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 9 mins        █████████████████████████   100.0% 
+Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               24 repos            █████████░░░░░░░░░░░░░░░░   37.5% 
-HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
 
 ```
 
 
 
- Last Updated on 10/07/2022 18:48:28 UTC
+ Last Updated on 11/07/2022 19:03:09 UTC
 <!--END_SECTION:waka-->
 
   
