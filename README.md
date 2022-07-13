@@ -141,7 +141,7 @@
 
 > 🏆 196 Contributions in the Year 2022
  > 
-> 📦 25.1 MB Used in GitHub's Storage 
+> 📦 25.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,22 +176,22 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 54 mins        ██████████████████████░░░   87.96% 
-SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+JavaScript               2 hrs 26 mins       █████████████████████░░░░   86.76% 
+SCSS                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.0% 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.0% 
 Google Calendar          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-2022-reactcourse-ecommerc2 hrs 9 mins        █████████████████████████   100.0% 
+2022-reactcourse-ecommerc2 hrs 48 mins       █████████████████████████   100.0% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.0% 
+Linux                    2 hrs 48 mins       █████████████████████████   100.0% 
 Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -209,7 +209,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2022 19:03:09 UTC
+ Last Updated on 13/07/2022 18:55:15 UTC
 <!--END_SECTION:waka-->
 
   
