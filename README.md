@@ -141,7 +141,7 @@
 
 > 🏆 197 Contributions in the Year 2022
  > 
-> 📦 25.3 MB Used in GitHub's Storage 
+> 📦 25.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,22 +176,23 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 5 mins        ██████████████████████░░░   89.28% 
-SCSS                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+JavaScript               6 hrs 16 mins       █████████████████████░░░░   85.09% 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.0% 
+VS Code                  7 hrs 22 mins       █████████████████████████   100.0% 
 Google Calendar          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-2022-reactcourse-ecommerc3 hrs 28 mins       █████████████████████████   100.0% 
+SkillsGrader             3 hrs 54 mins       █████████████░░░░░░░░░░░░   52.97% 
+2022-reactcourse-ecommerc3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   47.03% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.0% 
+Linux                    7 hrs 22 mins       █████████████████████████   100.0% 
 Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -209,7 +210,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 18:56:40 UTC
+ Last Updated on 15/07/2022 18:53:19 UTC
 <!--END_SECTION:waka-->
 
   
