@@ -183,17 +183,14 @@ JSON                     8 mins              ░░░░░░░░░░░�
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   100.0% 
-Google Calendar          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+VS Code                  7 hrs 22 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
 SkillsGrader             3 hrs 54 mins       █████████████░░░░░░░░░░░░   52.97% 
-2022-reactcourse-ecommerc3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   47.03% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+2022-reactcourse-ecommerc3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   47.03%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.0% 
-Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Linux                    7 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
@@ -210,7 +207,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2022 18:53:19 UTC
+ Last Updated on 16/07/2022 18:47:55 UTC
 <!--END_SECTION:waka-->
 
   
