@@ -176,21 +176,21 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 16 mins       █████████████████████░░░░   85.09% 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
+JavaScript               4 hrs 22 mins       █████████████████████░░░░   83.9% 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 54 mins       █████████████░░░░░░░░░░░░   52.97% 
-2022-reactcourse-ecommerc3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   47.03%
+SkillsGrader             3 hrs 54 mins       ██████████████████░░░░░░░   74.97% 
+2022-reactcourse-ecommerc1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.0%
+Linux                    5 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2022 18:50:40 UTC
+ Last Updated on 18/07/2022 18:52:35 UTC
 <!--END_SECTION:waka-->
 
   
