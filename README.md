@@ -141,7 +141,7 @@
 
 > 🏆 197 Contributions in the Year 2022
  > 
-> 📦 25.5 MB Used in GitHub's Storage 
+> 📦 25.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,21 +176,21 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 22 mins       █████████████████████░░░░   83.9% 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
-SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript               4 hrs 6 mins        █████████████████████░░░░   84.94% 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 50 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 54 mins       ██████████████████░░░░░░░   74.97% 
-2022-reactcourse-ecommerc1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03%
+SkillsGrader             3 hrs 59 mins       ████████████████████░░░░░   82.67% 
+2022-reactcourse-ecommerc50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33%
 
 💻 Operating System: 
-Linux                    5 hrs 12 mins       █████████████████████████   100.0%
+Linux                    4 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2022 18:52:35 UTC
+ Last Updated on 19/07/2022 18:53:27 UTC
 <!--END_SECTION:waka-->
 
   
