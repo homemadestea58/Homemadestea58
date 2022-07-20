@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 197 Contributions in the Year 2022
+> 🏆 198 Contributions in the Year 2022
  > 
 > 📦 25.6 MB Used in GitHub's Storage 
  > 
@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ███████░░░░░░░░░░░░░░░░░░   27.88% 
-🌆 Daytime    132 commits    ████████░░░░░░░░░░░░░░░░░   33.76% 
-🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
+🌞 Morning    109 commits    ███████░░░░░░░░░░░░░░░░░░   27.81% 
+🌆 Daytime    133 commits    ████████░░░░░░░░░░░░░░░░░   33.93% 
+🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   38.27% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Tuesday      119 commits    ███████░░░░░░░░░░░░░░░░░░   30.43% 
-Wednesday    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Thursday     61 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
-Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Tuesday      119 commits    ███████░░░░░░░░░░░░░░░░░░   30.36% 
+Wednesday    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Thursday     61 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22%
 
 ```
 
@@ -176,21 +176,21 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 6 mins        █████████████████████░░░░   84.94% 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+JavaScript               4 hrs               █████████████████████░░░░   84.63% 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 44 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 59 mins       ████████████████████░░░░░   82.67% 
-2022-reactcourse-ecommerc50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33%
+SkillsGrader             4 hrs 4 mins        █████████████████████░░░░   86.03% 
+2022-reactcourse-ecommerc39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97%
 
 💻 Operating System: 
-Linux                    4 hrs 50 mins       █████████████████████████   100.0%
+Linux                    4 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2022 18:53:27 UTC
+ Last Updated on 20/07/2022 18:51:43 UTC
 <!--END_SECTION:waka-->
 
   
