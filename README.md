@@ -133,7 +133,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 25.7 MB Used in GitHub's Storage 
+> 📦 25.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,23 +176,20 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 20 mins       ███████████████░░░░░░░░░░   62.86% 
-Other                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47% 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+Other                    2 hrs 15 mins       ███████████████████████░░   92.98% 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        ███████████████████░░░░░░   76.53% 
-Google Calendar          1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47%
+Google Calendar          2 hrs 15 mins       ███████████████████████░░   92.98% 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 4 mins        ███████████████████░░░░░░   76.53% 
-Unknown Project          1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47%
+Unknown Project          2 hrs 15 mins       ███████████████████████░░   92.98% 
+SkillsGrader             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 💻 Operating System: 
-Linux                    4 hrs 4 mins        ███████████████████░░░░░░   76.53% 
-Unknown OS               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47%
+Unknown OS               2 hrs 15 mins       ███████████████████████░░   92.98% 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 ```
 
@@ -209,7 +206,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2022 18:56:24 UTC
+ Last Updated on 23/07/2022 18:55:48 UTC
 <!--END_SECTION:waka-->
 
   
