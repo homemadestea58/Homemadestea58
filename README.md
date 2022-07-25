@@ -176,20 +176,20 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 15 mins       ███████████████████████░░   92.98% 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Other                    3 hrs 45 mins       ████████████████████████░   95.67% 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 🔥 Editors: 
-Google Calendar          2 hrs 15 mins       ███████████████████████░░   92.98% 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Google Calendar          3 hrs 45 mins       ████████████████████████░   95.67% 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 15 mins       ███████████████████████░░   92.98% 
-SkillsGrader             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Unknown Project          3 hrs 45 mins       ████████████████████████░   95.67% 
+SkillsGrader             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 💻 Operating System: 
-Unknown OS               2 hrs 15 mins       ███████████████████████░░   92.98% 
-Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Unknown OS               3 hrs 45 mins       ████████████████████████░   95.67% 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2022 18:50:23 UTC
+ Last Updated on 25/07/2022 18:59:37 UTC
 <!--END_SECTION:waka-->
 
   
