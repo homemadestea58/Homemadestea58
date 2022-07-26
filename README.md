@@ -141,7 +141,7 @@
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 25.9 MB Used in GitHub's Storage 
+> 📦 26.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 45 mins       ████████████████████████░   95.67% 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+Other                    6 hrs 45 mins       ████████████████████████░   98.83% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 🔥 Editors: 
-Google Calendar          3 hrs 45 mins       ████████████████████████░   95.67% 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+Google Calendar          6 hrs 45 mins       ████████████████████████░   98.83% 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 45 mins       ████████████████████████░   95.67% 
-SkillsGrader             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+Unknown Project          6 hrs 45 mins       ████████████████████████░   98.83% 
+SkillsGrader             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 💻 Operating System: 
-Unknown OS               3 hrs 45 mins       ████████████████████████░   95.67% 
-Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+Unknown OS               6 hrs 45 mins       ████████████████████████░   98.83% 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2022 18:59:37 UTC
+ Last Updated on 26/07/2022 18:52:03 UTC
 <!--END_SECTION:waka-->
 
   
