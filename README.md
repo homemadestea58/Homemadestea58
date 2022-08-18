@@ -141,7 +141,7 @@
 
 > 🏆 200 Contributions in the Year 2022
  > 
-> 📦 27.3 MB Used in GitHub's Storage 
+> 📦 27.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,17 +192,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   38.46% 
-HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
+JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   37.88% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 17/08/2022 18:55:13 UTC
+ Last Updated on 18/08/2022 18:53:59 UTC
 <!--END_SECTION:waka-->
 
   
