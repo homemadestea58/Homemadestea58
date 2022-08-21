@@ -176,16 +176,17 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              █████████████████████████   100.0% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SkillsGrader             0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -202,7 +203,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2022 18:49:05 UTC
+ Last Updated on 21/08/2022 18:49:52 UTC
 <!--END_SECTION:waka-->
 
   
