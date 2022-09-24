@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -176,20 +176,16 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr                ████████████████████████░   97.32% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Other                    1 hr                █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          1 hr                ████████████████████████░   97.32% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Google Calendar          1 hr                █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr                ████████████████████████░   97.32% 
-SkillsGrader             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Unknown Project          1 hr                █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               1 hr                ████████████████████████░   97.32% 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Unknown OS               1 hr                █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +202,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2022 18:59:14 UTC
+ Last Updated on 24/09/2022 19:01:05 UTC
 <!--END_SECTION:waka-->
 
   
