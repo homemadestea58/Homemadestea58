@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -176,23 +176,23 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 24 mins       ███████████████████░░░░░░   76.2% 
-Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+JavaScript               6 hrs 19 mins       ███████████████████░░░░░░   78.87% 
+Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████░░░░   85.93% 
-Google Calendar          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
+VS Code                  7 hrs               ██████████████████████░░░   87.52% 
+Google Calendar          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
 🐱‍💻 Projects: 
-SkillsGrader             6 hrs 6 mins        █████████████████████░░░░   85.93% 
-Unknown Project          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
+SkillsGrader             7 hrs               ██████████████████████░░░   87.52% 
+Unknown Project          1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
 💻 Operating System: 
-Linux                    6 hrs 6 mins        █████████████████████░░░░   85.93% 
-Unknown OS               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
+Linux                    7 hrs               ██████████████████████░░░   87.52% 
+Unknown OS               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
 ```
 
@@ -209,7 +209,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2022 18:56:55 UTC
+ Last Updated on 26/09/2022 18:59:04 UTC
 <!--END_SECTION:waka-->
 
   
