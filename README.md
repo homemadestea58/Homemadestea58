@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 213 Contributions in the Year 2022
  > 
-> 📦 29.6 MB Used in GitHub's Storage 
+> 📦 29.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 19 mins       ██████████████████████░░░   90.12% 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+JavaScript               10 hrs 14 mins      ██████████████████████░░░   90.55% 
+CSS                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-VS Code                  7 hrs               █████████████████████████   100.0%
+VS Code                  11 hrs 18 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             7 hrs               █████████████████████████   100.0%
+SkillsGrader             11 hrs 18 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs               █████████████████████████   100.0%
+Linux                    11 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2022 19:05:07 UTC
+ Last Updated on 29/09/2022 19:07:01 UTC
 <!--END_SECTION:waka-->
 
   
