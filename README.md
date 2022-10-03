@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -176,19 +176,18 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 51 mins       ███████████████████████░░   94.92% 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JavaScript               7 hrs 57 mins       ███████████████████████░░   94.39% 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 🔥 Editors: 
-VS Code                  9 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 25 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             9 hrs 20 mins       █████████████████████████   100.0%
+SkillsGrader             8 hrs 25 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    9 hrs 20 mins       █████████████████████████   100.0%
+Linux                    8 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -205,7 +204,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2022 19:02:45 UTC
+ Last Updated on 03/10/2022 19:05:36 UTC
 <!--END_SECTION:waka-->
 
   
