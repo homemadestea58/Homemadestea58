@@ -141,7 +141,7 @@
 
 > 🏆 214 Contributions in the Year 2022
  > 
-> 📦 29.9 MB Used in GitHub's Storage 
+> 📦 30.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,18 +176,18 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 57 mins       ███████████████████████░░   94.39% 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
+JavaScript               8 hrs 37 mins       ███████████████████████░░   94.8% 
+CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             8 hrs 25 mins       █████████████████████████   100.0%
+SkillsGrader             9 hrs 5 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 25 mins       █████████████████████████   100.0%
+Linux                    9 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -204,7 +204,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2022 19:05:36 UTC
+ Last Updated on 04/10/2022 19:10:43 UTC
 <!--END_SECTION:waka-->
 
   
