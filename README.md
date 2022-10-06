@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 214 Contributions in the Year 2022
  > 
-> 📦 30.0 MB Used in GitHub's Storage 
+> 📦 30.1 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,19 +176,20 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               11 hrs 46 mins      ███████████████████████░░   93.76% 
-CSS                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+JavaScript               9 hrs 41 mins       ██████████████████████░░░   88.07% 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  12 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  11 hrs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             12 hrs 33 mins      █████████████████████████   100.0%
+SkillsGrader             11 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    12 hrs 33 mins      █████████████████████████   100.0%
+Linux                    11 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -205,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2022 19:13:35 UTC
+ Last Updated on 06/10/2022 19:06:01 UTC
 <!--END_SECTION:waka-->
 
   
