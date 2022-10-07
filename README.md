@@ -176,20 +176,20 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 41 mins       ██████████████████████░░░   88.07% 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+JavaScript               9 hrs 22 mins       ███████████████████░░░░░░   78.38% 
+TypeScript               1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  11 hrs              █████████████████████████   100.0%
+VS Code                  11 hrs 58 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             11 hrs              █████████████████████████   100.0%
+SkillsGrader             11 hrs 58 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    11 hrs              █████████████████████████   100.0%
+Linux                    11 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2022 19:06:01 UTC
+ Last Updated on 07/10/2022 19:03:34 UTC
 <!--END_SECTION:waka-->
 
   
