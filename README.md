@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 214 Contributions in the Year 2022
  > 
-> 📦 30.2 MB Used in GitHub's Storage 
+> 📦 30.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 56 mins       █████████████████░░░░░░░░   68.77% 
-TypeScript               2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
+JavaScript               9 hrs 24 mins       ████████████████░░░░░░░░░   64.59% 
+TypeScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.3% 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
 
 🔥 Editors: 
-VS Code                  13 hrs              █████████████████████████   100.0%
+VS Code                  14 hrs 33 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             13 hrs              █████████████████████████   100.0%
+SkillsGrader             14 hrs 33 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    13 hrs              █████████████████████████   100.0%
+Linux                    14 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2022 18:56:10 UTC
+ Last Updated on 09/10/2022 18:58:37 UTC
 <!--END_SECTION:waka-->
 
   
