@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   26.98% 
-🌆 Daytime    134 commits    ████████░░░░░░░░░░░░░░░░░   33.17% 
-🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   39.36% 
+🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   27.11% 
+🌆 Daytime    134 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Tuesday      121 commits    ███████░░░░░░░░░░░░░░░░░░   29.95% 
-Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.59% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
-Sunday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14%
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Tuesday      121 commits    ███████░░░░░░░░░░░░░░░░░░   30.1% 
+Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
+Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
+Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7%
 
 ```
 
@@ -196,17 +196,17 @@ Linux                    14 hrs 33 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   36.23% 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-CSS                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
+JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
 
 
- Last Updated on 09/10/2022 18:58:37 UTC
+ Last Updated on 10/10/2022 19:08:42 UTC
 <!--END_SECTION:waka-->
 
   
