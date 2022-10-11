@@ -139,35 +139,35 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 214 Contributions in the Year 2022
+> 🏆 216 Contributions in the Year 2022
  > 
-> 📦 30.3 MB Used in GitHub's Storage 
+> 📦 30.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 56 Private Repositories  
+> 🔑 57 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   27.11% 
-🌆 Daytime    134 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   39.05% 
+🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   27.05% 
+🌆 Daytime    135 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
+🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   38.96% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Tuesday      121 commits    ███████░░░░░░░░░░░░░░░░░░   30.1% 
-Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7%
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Tuesday      122 commits    ███████░░░░░░░░░░░░░░░░░░   30.27% 
+Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
 
 ```
 
@@ -176,20 +176,21 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 24 mins       ████████████████░░░░░░░░░   64.59% 
-TypeScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+JavaScript               9 hrs 25 mins       ████████████████░░░░░░░░░   64.0% 
+TypeScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
 
 🔥 Editors: 
-VS Code                  14 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 44 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             14 hrs 33 mins      █████████████████████████   100.0%
+SkillsGrader             13 hrs 53 mins      ███████████████████████░░   94.29% 
+9SCIL_AT3_Global_Issues  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
 
 💻 Operating System: 
-Linux                    14 hrs 33 mins      █████████████████████████   100.0%
+Linux                    14 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +207,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2022 19:08:42 UTC
+ Last Updated on 11/10/2022 19:07:38 UTC
 <!--END_SECTION:waka-->
 
   
