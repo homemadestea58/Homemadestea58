@@ -176,21 +176,21 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       █████████████░░░░░░░░░░░░   52.09% 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.69% 
-CSS                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+JavaScript               3 hrs 53 mins       ██████████████░░░░░░░░░░░   58.01% 
+TypeScript               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   26.48% 
+CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  8 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 42 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             7 hrs 41 mins       ██████████████████████░░░   90.14% 
-9SCIL_AT3_Global_Issues  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
+SkillsGrader             5 hrs 51 mins       █████████████████████░░░░   87.45% 
+9SCIL_AT3_Global_Issues  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
 
 💻 Operating System: 
-Linux                    8 hrs 32 mins       █████████████████████████   100.0%
+Linux                    6 hrs 42 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2022 19:05:06 UTC
+ Last Updated on 14/10/2022 19:02:27 UTC
 <!--END_SECTION:waka-->
 
   
