@@ -141,7 +141,7 @@
 
 > 🏆 216 Contributions in the Year 2022
  > 
-> 📦 30.5 MB Used in GitHub's Storage 
+> 📦 30.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,21 +176,21 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 53 mins       ██████████████░░░░░░░░░░░   58.01% 
-TypeScript               1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   26.48% 
-CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JavaScript               3 hrs 34 mins       █████████████████░░░░░░░░   69.63% 
+TypeScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.08% 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 8 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             5 hrs 51 mins       █████████████████████░░░░   87.45% 
-9SCIL_AT3_Global_Issues  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
+SkillsGrader             4 hrs 17 mins       █████████████████████░░░░   83.61% 
+9SCIL_AT3_Global_Issues  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39%
 
 💻 Operating System: 
-Linux                    6 hrs 42 mins       █████████████████████████   100.0%
+Linux                    5 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2022 19:02:27 UTC
+ Last Updated on 15/10/2022 18:56:44 UTC
 <!--END_SECTION:waka-->
 
   
