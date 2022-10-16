@@ -131,17 +131,17 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 216 Contributions in the Year 2022
+> 🏆 227 Contributions in the Year 2022
  > 
-> 📦 30.6 MB Used in GitHub's Storage 
+> 📦 30.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   27.05% 
-🌆 Daytime    135 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
-🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   38.96% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
+🌆 Daytime    138 commits    ████████░░░░░░░░░░░░░░░░░   33.58% 
+🌃 Evening    162 commits    █████████░░░░░░░░░░░░░░░░   39.42% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Tuesday      122 commits    ███████░░░░░░░░░░░░░░░░░░   30.27% 
-Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Sunday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Tuesday      122 commits    ███████░░░░░░░░░░░░░░░░░░   29.68% 
+Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
+Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
 
 ```
 
@@ -176,21 +176,21 @@ Sunday       43 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 34 mins       █████████████████░░░░░░░░   69.63% 
-TypeScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.08% 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%
+JavaScript               3 hrs               ███████████████████░░░░░░   79.43% 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 🔥 Editors: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 47 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 17 mins       █████████████████████░░░░   83.61% 
-9SCIL_AT3_Global_Issues  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39%
+SkillsGrader             2 hrs 57 mins       ███████████████████░░░░░░   77.81% 
+9SCIL_AT3_Global_Issues  50 mins             █████░░░░░░░░░░░░░░░░░░░░   22.19%
 
 💻 Operating System: 
-Linux                    5 hrs 8 mins        █████████████████████████   100.0%
+Linux                    3 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 18:56:44 UTC
+ Last Updated on 16/10/2022 18:56:58 UTC
 <!--END_SECTION:waka-->
 
   
