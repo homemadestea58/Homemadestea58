@@ -176,20 +176,20 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 19 mins       ███████████████████░░░░░░   78.6% 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript               2 hrs 21 mins       ██████████████████░░░░░░░   71.78% 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45%
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 17 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             2 hrs 57 mins       █████████████████████████   100.0%
+SkillsGrader             3 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 57 mins       █████████████████████████   100.0%
+Linux                    3 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2022 19:14:27 UTC
+ Last Updated on 19/10/2022 19:10:48 UTC
 <!--END_SECTION:waka-->
 
   
