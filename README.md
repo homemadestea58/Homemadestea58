@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 232 Contributions in the Year 2022
  > 
-> 📦 30.9 MB Used in GitHub's Storage 
+> 📦 31.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 37 mins       ███████████████████░░░░░░   78.33% 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+JavaScript               3 hrs 18 mins       ████████████████████░░░░░   80.17% 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 37 mins       █████████████████████████   100.0%
+SkillsGrader             4 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 37 mins       █████████████████████████   100.0%
+Linux                    4 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2022 19:06:34 UTC
+ Last Updated on 22/10/2022 18:59:35 UTC
 <!--END_SECTION:waka-->
 
   
