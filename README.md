@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -176,20 +176,20 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 20 mins       █████████████████████░░░░   86.99% 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+JavaScript               3 hrs 17 mins       ███████████████████████░░   94.21% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 50 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 30 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 50 mins       █████████████████████████   100.0%
+SkillsGrader             3 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 50 mins       █████████████████████████   100.0%
+Linux                    3 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2022 19:30:26 UTC
+ Last Updated on 26/10/2022 18:54:30 UTC
 <!--END_SECTION:waka-->
 
   
