@@ -141,7 +141,7 @@
 
 > 🏆 235 Contributions in the Year 2022
  > 
-> 📦 31.2 MB Used in GitHub's Storage 
+> 📦 31.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 17 mins       ███████████████████████░░   94.21% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+JavaScript               2 hrs 1 min         ███████████████████████░░   94.11% 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.27% 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 30 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 30 mins       █████████████████████████   100.0%
+SkillsGrader             2 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       █████████████████████████   100.0%
+Linux                    2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2022 18:54:30 UTC
+ Last Updated on 28/10/2022 18:54:18 UTC
 <!--END_SECTION:waka-->
 
   
