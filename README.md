@@ -141,7 +141,7 @@
 
 > 🏆 235 Contributions in the Year 2022
  > 
-> 📦 31.4 MB Used in GitHub's Storage 
+> 📦 31.5 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,19 +176,16 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               50 mins             ██████████████████████░░░   90.03% 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JavaScript               2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             55 mins             █████████████████████████   100.0%
+SkillsGrader             2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.0%
+Linux                    2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -205,7 +202,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2022 18:51:24 UTC
+ Last Updated on 31/10/2022 18:58:26 UTC
 <!--END_SECTION:waka-->
 
   
