@@ -141,7 +141,7 @@
 
 > 🏆 235 Contributions in the Year 2022
  > 
-> 📦 31.5 MB Used in GitHub's Storage 
+> 📦 31.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,16 +176,16 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SkillsGrader             2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -202,7 +202,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2022 18:58:26 UTC
+ Last Updated on 01/11/2022 18:57:41 UTC
 <!--END_SECTION:waka-->
 
   
