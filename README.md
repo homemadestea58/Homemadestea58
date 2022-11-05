@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,9 +139,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 236 Contributions in the Year 2022
+> 🏆 242 Contributions in the Year 2022
  > 
-> 📦 31.7 MB Used in GitHub's Storage 
+> 📦 31.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   26.27% 
-🌆 Daytime    138 commits    ████████░░░░░░░░░░░░░░░░░   33.25% 
-🌃 Evening    166 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
+🌞 Morning    109 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89% 
+🌆 Daytime    144 commits    ████████░░░░░░░░░░░░░░░░░   34.2% 
+🌃 Evening    166 commits    █████████░░░░░░░░░░░░░░░░   39.43% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-Tuesday      123 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
-Wednesday    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
-Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
-Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+Tuesday      123 commits    ███████░░░░░░░░░░░░░░░░░░   29.22% 
+Wednesday    65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Friday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+Saturday     44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
+Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
 
 ```
 
@@ -205,7 +205,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2022 18:55:02 UTC
+ Last Updated on 05/11/2022 18:49:32 UTC
 <!--END_SECTION:waka-->
 
   
