@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 31.8 MB Used in GitHub's Storage 
+> 📦 31.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,19 +176,23 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 25 mins       ███████████████████████░░   93.96% 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other                    4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
+JavaScript               3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.12% 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.0%
+Google Calendar          4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
+VS Code                  3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 39 mins       █████████████████████████   100.0%
+Unknown Project          4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
+SkillsGrader             3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
 
 💻 Operating System: 
-Linux                    3 hrs 39 mins       █████████████████████████   100.0%
+Unknown OS               4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
+Linux                    3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
 
 ```
 
@@ -205,7 +209,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 18:49:32 UTC
+ Last Updated on 06/11/2022 18:49:33 UTC
 <!--END_SECTION:waka-->
 
   
