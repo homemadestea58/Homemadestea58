@@ -176,40 +176,40 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
-JavaScript               3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.12% 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+Other                    4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.51% 
+JavaScript               3 hrs 58 mins       ███████████░░░░░░░░░░░░░░   46.29% 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-Google Calendar          4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
-VS Code                  3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
+Google Calendar          4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.51% 
+VS Code                  4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   47.49%
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
-SkillsGrader             3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
+Unknown Project          4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.51% 
+SkillsGrader             4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   47.49%
 
 💻 Operating System: 
-Unknown OS               4 hrs 30 mins       █████████████░░░░░░░░░░░░   53.02% 
-Linux                    3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   46.98%
+Unknown OS               4 hrs 30 mins       █████████████░░░░░░░░░░░░   52.51% 
+Linux                    4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   47.49%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.62% 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
 
 ```
 
 
 
- Last Updated on 08/11/2022 19:01:48 UTC
+ Last Updated on 09/11/2022 18:51:51 UTC
 <!--END_SECTION:waka-->
 
   
