@@ -141,7 +141,7 @@
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 32.1 MB Used in GitHub's Storage 
+> 📦 32.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,22 +176,22 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ██████████████████░░░░░░░   73.92% 
-JavaScript               1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+Other                    4 hrs 30 mins       ████████████████████░░░░░   82.13% 
+JavaScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-Google Calendar          4 hrs 30 mins       ██████████████████░░░░░░░   73.92% 
-VS Code                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   26.08%
+Google Calendar          4 hrs 30 mins       ████████████████████░░░░░   82.13% 
+VS Code                  58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87%
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 30 mins       ██████████████████░░░░░░░   73.92% 
-SkillsGrader             1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   26.08%
+Unknown Project          4 hrs 30 mins       ████████████████████░░░░░   82.13% 
+SkillsGrader             58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87%
 
 💻 Operating System: 
-Unknown OS               4 hrs 30 mins       ██████████████████░░░░░░░   73.92% 
-Linux                    1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   26.08%
+Unknown OS               4 hrs 30 mins       ████████████████████░░░░░   82.13% 
+Linux                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87%
 
 ```
 
@@ -208,7 +208,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 18:52:00 UTC
+ Last Updated on 11/11/2022 18:55:22 UTC
 <!--END_SECTION:waka-->
 
   
