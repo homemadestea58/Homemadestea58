@@ -133,7 +133,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 32.3 MB Used in GitHub's Storage 
+> 📦 32.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,21 +176,21 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ██████████████░░░░░░░░░░░   56.85% 
-JavaScript               3 hrs               █████████░░░░░░░░░░░░░░░░   38.0% 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16%
+Other                    4 hrs 30 mins       █████████████░░░░░░░░░░░░   54.16% 
+JavaScript               3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.93% 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
 
 🔥 Editors: 
-Google Calendar          4 hrs 30 mins       ██████████████░░░░░░░░░░░   56.85% 
-VS Code                  3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   43.15%
+Google Calendar          4 hrs 30 mins       █████████████░░░░░░░░░░░░   54.16% 
+VS Code                  3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.84%
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 30 mins       ██████████████░░░░░░░░░░░   56.85% 
-SkillsGrader             3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   43.15%
+Unknown Project          4 hrs 30 mins       █████████████░░░░░░░░░░░░   54.16% 
+SkillsGrader             3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.84%
 
 💻 Operating System: 
-Unknown OS               4 hrs 30 mins       ██████████████░░░░░░░░░░░   56.85% 
-Linux                    3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   43.15%
+Unknown OS               4 hrs 30 mins       █████████████░░░░░░░░░░░░   54.16% 
+Linux                    3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.84%
 
 ```
 
@@ -207,7 +207,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2022 18:54:11 UTC
+ Last Updated on 15/11/2022 18:52:41 UTC
 <!--END_SECTION:waka-->
 
   
