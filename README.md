@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    108 commits    ██████░░░░░░░░░░░░░░░░░░░   27.14% 
-🌆 Daytime    131 commits    ████████░░░░░░░░░░░░░░░░░   32.91% 
-🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   39.45% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+🌞 Morning    87 commits     █████░░░░░░░░░░░░░░░░░░░░   23.45% 
+🌆 Daytime    129 commits    ████████░░░░░░░░░░░░░░░░░   34.77% 
+🌃 Evening    153 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-Tuesday      121 commits    ███████░░░░░░░░░░░░░░░░░░   30.4% 
-Wednesday    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
-Friday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.28% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06%
+Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+Tuesday      121 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
+Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Friday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
+Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Sunday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32%
 
 ```
 
@@ -202,7 +202,7 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2022 18:45:43 UTC
+ Last Updated on 20/12/2022 18:44:05 UTC
 <!--END_SECTION:waka-->
 
   
