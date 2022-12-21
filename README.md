@@ -141,7 +141,7 @@
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 34.6 MB Used in GitHub's Storage 
+> 📦 34.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -195,14 +195,14 @@ No Activity Tracked This Week
 JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.62% 
 HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
 CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86%
 
 ```
 
 
 
- Last Updated on 20/12/2022 18:44:05 UTC
+ Last Updated on 21/12/2022 18:43:42 UTC
 <!--END_SECTION:waka-->
 
   
