@@ -176,10 +176,10 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               45 mins             █████████████████████░░░░   84.91% 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+JavaScript               45 mins             █████████████████████░░░░   85.14% 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
 
 🔥 Editors: 
 VS Code                  53 mins             █████████████████████████   100.0%
@@ -205,7 +205,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2022 18:44:42 UTC
+ Last Updated on 25/12/2022 18:43:36 UTC
 <!--END_SECTION:waka-->
 
   
