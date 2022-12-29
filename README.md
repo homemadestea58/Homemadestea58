@@ -141,7 +141,7 @@
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 35.1 MB Used in GitHub's Storage 
+> 📦 35.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,19 +176,16 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               45 mins             █████████████████████░░░░   85.14% 
-Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+JavaScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             53 mins             █████████████████████████   100.0%
+SkillsGrader             0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.0%
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -205,7 +202,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022 18:44:46 UTC
+ Last Updated on 29/12/2022 18:43:13 UTC
 <!--END_SECTION:waka-->
 
   
