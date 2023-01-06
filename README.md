@@ -133,7 +133,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 63 Contributions in the Year 2023
  > 
-> 📦 35.6 MB Used in GitHub's Storage 
+> 📦 35.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 50 mins       ███████████████████░░░░░░   76.13% 
-JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Git Config               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+JavaScript               6 hrs 6 mins        ██████████████████░░░░░░░   73.03% 
+JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
+Git Config               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 21 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             8 hrs 59 mins       █████████████████████████   100.0%
+SkillsGrader             8 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 59 mins       █████████████████████████   100.0%
+Linux                    8 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2023 18:48:22 UTC
+ Last Updated on 06/01/2023 18:44:17 UTC
 <!--END_SECTION:waka-->
 
   
