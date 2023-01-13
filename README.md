@@ -141,7 +141,7 @@
 
 > 🏆 71 Contributions in the Year 2023
  > 
-> 📦 36.0 MB Used in GitHub's Storage 
+> 📦 36.1 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,16 +176,16 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SkillsGrader             6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -202,7 +202,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2023 18:49:19 UTC
+ Last Updated on 13/01/2023 18:46:56 UTC
 <!--END_SECTION:waka-->
 
   
