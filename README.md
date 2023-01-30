@@ -176,21 +176,21 @@ Sunday       61 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        █████████████████████░░░░   84.79% 
-SCSS                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+JavaScript               1 hr 59 mins        █████████████████████░░░░   85.56% 
+SCSS                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 19 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             1 hr 37 mins        ██████████████████░░░░░░░   73.28% 
-crwn-clothing-v2         35 mins             ██████░░░░░░░░░░░░░░░░░░░   26.72%
+SkillsGrader             1 hr 44 mins        ██████████████████░░░░░░░   74.63% 
+crwn-clothing-v2         35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37%
 
 💻 Operating System: 
-Linux                    2 hrs 12 mins       █████████████████████████   100.0%
+Linux                    2 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 18:43:56 UTC
+ Last Updated on 30/01/2023 18:44:31 UTC
 <!--END_SECTION:waka-->
 
   
