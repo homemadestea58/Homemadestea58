@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 126 Contributions in the Year 2023
  > 
-> 📦 37.1 MB Used in GitHub's Storage 
+> 📦 37.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,21 +176,21 @@ Sunday       61 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 59 mins        █████████████████████░░░░   85.56% 
-SCSS                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
+JavaScript               45 mins             ██████████████████░░░░░░░   73.64% 
+SCSS                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73% 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-VS Code                  2 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  1 hr 2 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             1 hr 44 mins        ██████████████████░░░░░░░   74.63% 
-crwn-clothing-v2         35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37%
+crwn-clothing-v2         35 mins             ██████████████░░░░░░░░░░░   57.05% 
+SkillsGrader             26 mins             ██████████░░░░░░░░░░░░░░░   42.95%
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.0%
+Linux                    1 hr 2 mins         █████████████████████████   100.0%
 
 ```
 
@@ -207,7 +207,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 18:44:31 UTC
+ Last Updated on 31/01/2023 18:43:56 UTC
 <!--END_SECTION:waka-->
 
   
