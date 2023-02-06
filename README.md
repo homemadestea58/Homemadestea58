@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,9 +139,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 137 Contributions in the Year 2023
+> 🏆 144 Contributions in the Year 2023
  > 
-> 📦 37.5 MB Used in GitHub's Storage 
+> 📦 37.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,21 +153,21 @@
 
 ```text
 🌞 Morning    108 commits    ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-🌆 Daytime    140 commits    ████████░░░░░░░░░░░░░░░░░   34.06% 
-🌃 Evening    161 commits    █████████░░░░░░░░░░░░░░░░   39.17% 
+🌆 Daytime    138 commits    ████████░░░░░░░░░░░░░░░░░   33.58% 
+🌃 Evening    163 commits    ██████████░░░░░░░░░░░░░░░   39.66% 
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       67 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Monday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
 Tuesday      111 commits    ██████░░░░░░░░░░░░░░░░░░░   27.01% 
-Wednesday    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
 Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
 Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-Saturday     23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
-Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
+Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Sunday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
 
 ```
 
@@ -176,17 +176,20 @@ Sunday       57 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 18 mins       ████████████████████████░   99.27% 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+JavaScript               4 hrs 55 mins       ████████████████████████░   98.88% 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 59 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 20 mins       █████████████████████████   100.0%
+SkillsGrader             4 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 20 mins       █████████████████████████   100.0%
+Linux                    4 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -203,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2023 18:44:49 UTC
+ Last Updated on 06/02/2023 18:46:54 UTC
 <!--END_SECTION:waka-->
 
   
