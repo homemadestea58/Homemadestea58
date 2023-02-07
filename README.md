@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -152,22 +152,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    108 commits    ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-🌆 Daytime    138 commits    ████████░░░░░░░░░░░░░░░░░   33.58% 
-🌃 Evening    163 commits    ██████████░░░░░░░░░░░░░░░   39.66% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+🌞 Morning    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+🌆 Daytime    112 commits    ████████░░░░░░░░░░░░░░░░░   34.78% 
+🌃 Evening    156 commits    ████████████░░░░░░░░░░░░░   48.45% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Tuesday      111 commits    ██████░░░░░░░░░░░░░░░░░░░   27.01% 
-Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
-Sunday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Monday       71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+Sunday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15%
 
 ```
 
@@ -176,20 +176,20 @@ Sunday       52 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 55 mins       ████████████████████████░   98.88% 
+JavaScript               4 hrs 51 mins       ████████████████████████░   98.87% 
 TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 55 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 59 mins       █████████████████████████   100.0%
+SkillsGrader             4 hrs 55 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 59 mins       █████████████████████████   100.0%
+Linux                    4 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 18:46:54 UTC
+ Last Updated on 07/02/2023 18:47:18 UTC
 <!--END_SECTION:waka-->
 
   
