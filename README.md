@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,9 +139,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 160 Contributions in the Year 2023
+> 🏆 166 Contributions in the Year 2023
  > 
-> 📦 37.8 MB Used in GitHub's Storage 
+> 📦 37.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,22 +152,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       52 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-🌆 Daytime      100 commits       ███████░░░░░░░░░░░░░░░░░░   31.06 % 
-🌃 Evening      168 commits       █████████████░░░░░░░░░░░░   52.17 % 
+🌞 Morning       51 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌆 Daytime      100 commits       ███████░░░░░░░░░░░░░░░░░░   31.15 % 
+🌃 Evening      168 commits       █████████████░░░░░░░░░░░░   52.34 % 
 🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday          71 commits       █████░░░░░░░░░░░░░░░░░░░░   22.05 % 
-Tuesday         51 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Wednesday       45 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday        48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday          49 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday        16 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Sunday          42 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Monday          71 commits       █████░░░░░░░░░░░░░░░░░░░░   22.12 % 
+Tuesday         51 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday       45 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Thursday        48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Friday          48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday        21 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Sunday          37 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 
 ```
 
@@ -176,20 +176,20 @@ Sunday          42 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs               ███████████████████░░░░░░   77.34 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JavaScript               3 hrs 8 mins        ██████████████████░░░░░░░   75.33 % 
+JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 52 mins       █████████████████████████   100.00 % 
+SkillsGrader             4 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2023 18:45:36 UTC
+ Last Updated on 11/02/2023 18:43:04 UTC
 <!--END_SECTION:waka-->
 
   
