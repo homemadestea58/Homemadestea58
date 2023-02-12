@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 166 Contributions in the Year 2023
+> 🏆 168 Contributions in the Year 2023
  > 
 > 📦 37.9 MB Used in GitHub's Storage 
  > 
@@ -153,8 +153,8 @@
 
 ```text
 🌞 Morning       51 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime      100 commits       ███████░░░░░░░░░░░░░░░░░░   31.15 % 
-🌃 Evening      168 commits       █████████████░░░░░░░░░░░░   52.34 % 
+🌆 Daytime       99 commits       ███████░░░░░░░░░░░░░░░░░░   30.84 % 
+🌃 Evening      169 commits       █████████████░░░░░░░░░░░░   52.65 % 
 🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 ```
@@ -176,20 +176,20 @@ Sunday          37 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 8 mins        ██████████████████░░░░░░░   75.33 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript               4 hrs 2 mins        ████████████████████░░░░░   79.70 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 10 mins       █████████████████████████   100.00 % 
+SkillsGrader             5 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 4 mins        █████████████████████████   100.00 % 
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2023 18:43:04 UTC
+ Last Updated on 12/02/2023 18:46:15 UTC
 <!--END_SECTION:waka-->
 
   
