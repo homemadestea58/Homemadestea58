@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,7 +141,7 @@
 
 > 🏆 168 Contributions in the Year 2023
  > 
-> 📦 37.9 MB Used in GitHub's Storage 
+> 📦 38.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday          37 commits       ███░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 2 mins        ████████████████████░░░░░   79.70 % 
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               3 hrs 11 mins       ███████████████████░░░░░░   76.00 % 
+JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             5 hrs 4 mins        █████████████████████████   100.00 % 
+SkillsGrader             4 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2023 18:46:15 UTC
+ Last Updated on 13/02/2023 18:49:09 UTC
 <!--END_SECTION:waka-->
 
   
