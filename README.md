@@ -176,23 +176,23 @@ Sunday          33 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 46 mins       █████████████████░░░░░░░░   68.31 % 
-Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JavaScript               3 hrs 42 mins       ██████████████████░░░░░░░   71.66 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████░░░░   86.46 % 
-Google Calendar          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+VS Code                  4 hrs 26 mins       █████████████████████░░░░   85.54 % 
+Google Calendar          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             4 hrs 47 mins       █████████████████████░░░░   86.46 % 
-Unknown Project          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+SkillsGrader             4 hrs 26 mins       █████████████████████░░░░   85.54 % 
+Unknown Project          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 
 💻 Operating System: 
-Linux                    4 hrs 47 mins       █████████████████████░░░░   86.46 % 
-Unknown OS               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Linux                    4 hrs 26 mins       █████████████████████░░░░   85.54 % 
+Unknown OS               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 
 ```
 
@@ -209,7 +209,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2023 18:45:45 UTC
+ Last Updated on 15/02/2023 18:47:53 UTC
 <!--END_SECTION:waka-->
 
   
