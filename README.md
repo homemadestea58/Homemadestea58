@@ -135,13 +135,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 172 Contributions in the Year 2023
+> 🏆 175 Contributions in the Year 2023
  > 
-> 📦 38.2 MB Used in GitHub's Storage 
+> 📦 38.3 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,22 +152,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       51 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime       99 commits       ███████░░░░░░░░░░░░░░░░░░   30.84 % 
-🌃 Evening      169 commits       █████████████░░░░░░░░░░░░   52.65 % 
+🌞 Morning       50 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌆 Daytime       99 commits       ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+🌃 Evening      172 commits       █████████████░░░░░░░░░░░░   53.25 % 
 🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday          71 commits       █████░░░░░░░░░░░░░░░░░░░░   22.12 % 
-Tuesday         55 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Wednesday       45 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Thursday        48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Friday          48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday        21 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Sunday          33 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Monday          71 commits       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Tuesday         55 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Wednesday       45 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Thursday        47 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday          48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Saturday        24 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Sunday          33 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 
 ```
 
@@ -176,23 +176,20 @@ Sunday          33 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 2 mins        ████████████████░░░░░░░░░   67.47 % 
-Other                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
+Other                    45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       ████████████████████░░░░░   83.40 % 
-Google Calendar          45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+VS Code                  2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
+Google Calendar          45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             3 hrs 46 mins       ████████████████████░░░░░   83.40 % 
-Unknown Project          45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+SkillsGrader             2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
+Unknown Project          45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       ████████████████████░░░░░   83.40 % 
-Unknown OS               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Linux                    2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
+Unknown OS               45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 
 ```
 
@@ -209,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:45:21 UTC
+ Last Updated on 18/02/2023 18:39:23 UTC
 <!--END_SECTION:waka-->
 
   
