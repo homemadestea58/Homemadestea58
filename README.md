@@ -141,7 +141,7 @@
 
 > 🏆 175 Contributions in the Year 2023
  > 
-> 📦 38.3 MB Used in GitHub's Storage 
+> 📦 38.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,20 +176,20 @@ Sunday          33 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
-Other                    45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Other                    45 mins             ██████████████░░░░░░░░░░░   55.59 % 
+JavaScript               35 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
-Google Calendar          45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Google Calendar          45 mins             ██████████████░░░░░░░░░░░   55.59 % 
+VS Code                  35 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
 
 🐱‍💻 Projects: 
-SkillsGrader             2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
-Unknown Project          45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Unknown Project          45 mins             ██████████████░░░░░░░░░░░   55.59 % 
+SkillsGrader             35 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
 
 💻 Operating System: 
-Linux                    2 hrs 25 mins       ███████████████████░░░░░░   76.39 % 
-Unknown OS               45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Unknown OS               45 mins             ██████████████░░░░░░░░░░░   55.59 % 
+Linux                    35 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
 
 ```
 
@@ -206,7 +206,7 @@ Python                   7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 18:39:23 UTC
+ Last Updated on 19/02/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
 
   
