@@ -135,40 +135,38 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 175 Contributions in the Year 2023
+> 📦 38.6 MB Used in GitHub's Storage 
  > 
-> 📦 38.5 MB Used in GitHub's Storage 
+> 🏆 176 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 58 Private Repositories  
+> 🔑 58 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       50 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-🌆 Daytime       99 commits       ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-🌃 Evening      172 commits       █████████████░░░░░░░░░░░░   53.25 % 
-🌙 Night          2 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
+🌞 Morning                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                157 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
+🌃 Evening                272 commits         ██████████████░░░░░░░░░░░   55.06 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday          71 commits       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Tuesday         55 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Wednesday       45 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Thursday        47 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Friday          48 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday        24 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Sunday          33 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-
+Monday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Wednesday                80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Sunday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 ```
 
 
@@ -176,33 +174,32 @@ Sunday          33 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
-
+Unknown OS               30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.62 % 
-HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-
+JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+CSS                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Svelte                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
- Last Updated on 21/02/2023 18:41:21 UTC
+
+ Last Updated on 22/02/2023 18:40:36 UTC
 <!--END_SECTION:waka-->
 
   
