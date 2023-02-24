@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 38.6 MB Used in GitHub's Storage 
+> 📦 38.7 MB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2023
  > 
@@ -174,16 +174,16 @@ Sunday                   100 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
+Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          30 mins             █████████████████████████   100.00 % 
+Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          30 mins             █████████████████████████   100.00 % 
+Unknown Project          2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               30 mins             █████████████████████████   100.00 % 
+Unknown OS               2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +199,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 18:40:56 UTC
+ Last Updated on 24/02/2023 18:40:33 UTC
 <!--END_SECTION:waka-->
 
   
