@@ -131,7 +131,7 @@
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,7 +139,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 38.9 MB Used in GitHub's Storage 
+> 📦 39.0 MB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2023
  > 
@@ -174,16 +174,16 @@ Sunday                   100 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs               █████████████████████████   100.00 % 
+Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs               █████████████████████████   100.00 % 
+Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs               █████████████████████████   100.00 % 
+Unknown Project          2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               3 hrs               █████████████████████████   100.00 % 
+Unknown OS               2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +199,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2023 18:44:12 UTC
+ Last Updated on 01/03/2023 18:41:29 UTC
 <!--END_SECTION:waka-->
 
   
