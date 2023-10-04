@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mealie-recipes/mealie</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor</div>
@@ -2513,7 +2513,7 @@ Im a banana</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 720k out of 119m users</span>
+                                    <span class="gh">ranked 720k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 46 public repositories</div>
                             </div>
@@ -2708,7 +2708,7 @@ Im a banana</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 389k out of 119m users</span>
+                                    <span class="gh">ranked 389k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -2751,7 +2751,7 @@ Im a banana</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 01:13:10 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 02:13:55 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
