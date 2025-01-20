@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stanford-oval/storm</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</div>
@@ -2711,7 +2711,7 @@ misc: generate ssl certs for tailscale</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 487k out of 154m users</span>
+                                    <span class="gh">ranked 488k out of 154m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2754,7 +2754,7 @@ misc: generate ssl certs for tailscale</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2025, 21:17:36 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2025, 22:13:33 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
