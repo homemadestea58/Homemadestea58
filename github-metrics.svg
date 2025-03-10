@@ -2716,7 +2716,7 @@ fix: packinglists not being created/deleted correctly</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 518k out of 158m users</span>
+                                    <span class="gh">ranked 519k out of 158m users</span>
                                 </div>
                                 <div class="text">Followed by 31 users</div>
                             </div>
@@ -2759,7 +2759,7 @@ fix: packinglists not being created/deleted correctly</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2025, 22:12:28 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Mar 2025, 23:34:37 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
