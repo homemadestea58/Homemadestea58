@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DJS91/HAMusicAssistantJukebox</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A guest friendly jukebox solution for those running Music Assistant on Home Assistant</div>
@@ -2376,7 +2376,7 @@ https://app.snyk.io/org/homemadestea58/project/c0c7c4b7-0526-4448-848b-0f00369fc
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2025, 19:19:55 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2025, 20:20:16 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
